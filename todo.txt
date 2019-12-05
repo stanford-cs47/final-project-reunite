@@ -1,0 +1,17 @@
+splash screen
+onboarding, users import friends here
+meetup screen expand notification
+friends screen add menus
+meetup screen archived meetups
+message added to travel plans, menu to delete/edit
+notification card change to show message they added
+message shows status messages too
+add photo to chat screen title
+slidey timestamp for messages
+when flipped through notifications, do something
+fix bug that sometimes gap on top of screens (maybe because of search bar?)(never occurs on home screen / message screen?)
+put example messages in default state of chats for all three chat correspondents
+get rid of lag time when name updates in chat screen title
+functionality for meetup button in chat screen
+fix bug where chat messages aren't sent if clicked on home button
+Replace default name params passed to FindTimeScreen with dynamic names
